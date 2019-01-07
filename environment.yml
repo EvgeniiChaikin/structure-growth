@@ -1,0 +1,6 @@
+name: structure-formation
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
